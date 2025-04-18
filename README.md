@@ -1,8 +1,7 @@
 # Data Portfolio
-## Introduction
-## Data
-Data Exploration, Data Cleaning, and Data Manipulation
-## Analysis
-## Results
-Data Visualization
-## Conclusion
+## Project Background
+## Data Structure & Initial Checks
+Include ERDs
+## Executive Summary
+## Insights Deep Dive
+## Recommendations
