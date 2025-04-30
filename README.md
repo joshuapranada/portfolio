@@ -1,5 +1,12 @@
 # STOCK VALUATION
 ## Background
+Speak on a Data Analyst Perspective; Give what is the project all about
+
+Insights and recommendations are provided on the following key areas:
+
+* Valuation
+* Growth Prospects
+* Company Financial Health
 ## Data Overview
 Data Limitation
 ## Executive Summary
