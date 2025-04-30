@@ -2,7 +2,7 @@
 ## Project Background
 Speak on a Data Analyst Perspective; Give what is the project all about;
 
-REIT is blank.
+AREIT is blank.
 
 This sector are govern by the law, Republic Act no. 0000 in which (Brief Description of the law). This project analyzes data to uncover undervalue and overvalue stock in blank. Helpful in managing portfolio and watchlist.
 
