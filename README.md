@@ -1,6 +1,10 @@
 # STOCK VALUATION
 ## Background
-Speak on a Data Analyst Perspective; Give what is the project all about
+Speak on a Data Analyst Perspective; Give what is the project all about;
+
+REIT is blank.
+
+This sector are govern by the law, Republic Act no. 0000 in which (Brief Description of the law).
 
 Insights and recommendations are provided on the following key areas:
 
