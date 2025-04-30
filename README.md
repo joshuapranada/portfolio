@@ -21,7 +21,7 @@ One Paragraph; Findings answer "What Question"
 
 Details - Consist of Data Visualization
 
-Insert Line Chart
+*Insert Line Chart*
 
 Valuation:
 
@@ -29,7 +29,7 @@ Valuation:
 * Stock 2
 * Stock 3
 
-Insert Area Stack Chart
+*Insert Area Stack Chart*
 
 Growth Prospect:
 
@@ -37,7 +37,7 @@ Growth Prospect:
 * Stock 2
 * Stock 3
 
-Insert Heat Map Visualization
+*Insert Heat Map Visualization*
 
 Company Financial Health:
 
@@ -45,7 +45,7 @@ Company Financial Health:
 * Stock 2
 * Stock 3
 
-Insert Bar Chart
+*Insert Bar Chart*
 
 Market Capitalization:
 
@@ -63,3 +63,8 @@ Answer Why or So What Question
 
 Nota Bene: Each insight should contain: quantified value; business metric; simple story about historical trend
 ## Recommendations
+
+* Stock 1
+* Stock 2
+* Stock 3
+* Market Capitalization
