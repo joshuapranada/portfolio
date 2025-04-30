@@ -14,7 +14,7 @@ Insights and recommendations are provided on the following key areas:
 ## Data Overview
 Data Limitation
 ## Executive Summary
-Overview of Findings
+**Overview of Findings**
 
 One Paragraph
 
@@ -24,7 +24,7 @@ Data Visualization
 
 Valuation:
 
-* The blank blank is blank
+* quantified value + business metric + simple story about historical trend
 * Blank the blank and blank
 
 Data Visualization
