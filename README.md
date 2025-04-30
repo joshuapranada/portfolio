@@ -24,7 +24,7 @@ Data Visualization
 
 Valuation:
 
-* quantified value + business metric + simple story about historical trend
+* Blank Blank
 * Blank the blank and blank
 
 Data Visualization
@@ -43,4 +43,6 @@ Findings - Answer What Question
 
 ## Insights Deep Dive
 Answer Why or So What Question
+
+Each insight should contain: quantified value; business metric; simple story about historical trend
 ## Recommendations
