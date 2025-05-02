@@ -12,8 +12,10 @@ Insights and recommendations are provided on the following key areas:
 * Growth Prospects: Earning Per Share (EPS) Growth Rate; Revenue Growth Rate
 * Company Financial Health
 * Market Capitalization
+
 ## Data Overview
 Data Limitation
+
 ## Executive Summary
 **Overview of Findings**
 
