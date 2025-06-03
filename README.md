@@ -15,6 +15,8 @@ Insights and recommendations are provided on the following key areas:
 
 ## Data Overview
 Data Limitation
+Data Dictionary
+Data Lineage
 
 ## Executive Summary
 **Overview of Findings**
