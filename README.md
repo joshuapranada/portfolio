@@ -74,3 +74,5 @@ Nota Bene: Each insight should contain: quantified value; business metric; simpl
 * Stock 2
 * Stock 3
 * Market Capitalization
+
+*Keywords: Investing, Fundamental Analysis, Asset Intrinsic Value, Financial Statement (Income Statements, Balance Sheets, Cash Flow Statements), Economic Indicators, Long Term Approach*
